@@ -1,5 +1,4 @@
 # hello-world
-test rep, just learn git hub
-
-Hey, this is Antonio! 
-I learn GitHub
+test rep
+What's up fellas,  this is Antonio! 
+I'm learning GitHub. The cooelst thing ever!
